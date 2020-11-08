@@ -1,0 +1,370 @@
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.deps.json
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.runtimeconfig.json
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.runtimeconfig.dev.json
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csprojAssemblyReference.cache
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.AssemblyInfoInputs.cache
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.AssemblyInfo.cs
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csproj.CopyComplete
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.genruntimeconfig.cache
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.exe
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.pdb
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.pdb
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csproj.CoreCompileInputs.cache
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.dll
+C:\Users\himanshu\source\repos\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.pdb
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\log4net.config
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.exe
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.deps.json
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.runtimeconfig.json
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.runtimeconfig.dev.json
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.pdb
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\log4net.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\testhost.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Moq.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.dll
+F:\MFRFV1\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.pdb
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csprojAssemblyReference.cache
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.AssemblyInfoInputs.cache
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.AssemblyInfo.cs
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csproj.CopyComplete
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.dll
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.pdb
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.genruntimeconfig.cache
+F:\MFRFV1\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csproj.CoreCompileInputs.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\log4net.config
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.exe
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockConfig.yaml
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.deps.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.runtimeconfig.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.runtimeconfig.dev.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicalStockModuleTest.pdb
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\bin\Debug\netcoreapp3.1\MedicineStockApi.pdb
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csprojAssemblyReference.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.AssemblyInfoInputs.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.AssemblyInfo.cs
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csproj.CoreCompileInputs.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.csproj.CopyComplete
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.pdb
+D:\Projects\Cognizant MFRP\Medicine-master\MedicalStockModuleTest\obj\Debug\netcoreapp3.1\MedicalStockModuleTest.genruntimeconfig.cache

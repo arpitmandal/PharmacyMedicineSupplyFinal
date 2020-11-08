@@ -1,0 +1,40 @@
+﻿@model IEnumerable<PharmacyMedicineSupplyPortal.Models.PharmacyMedicineSupply>
+
+    @{
+    ViewData["Title"] = "AddSupply";
+    }
+
+    <h1>AddSupply</h1>
+
+   
+    <table class="table text-center">
+        <thead class="thead-dark"
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PharmacyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupplyCount)
+            </th>
+
+        </tr>
+    </thead>
+        <tbody>
+            @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PharmacyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SupplyCount)
+                </td>
+            </tr>
+}
+        </tbody>
+    </table>

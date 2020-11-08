@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicalRepresentativeSchedule", "MedicalRepresentativeSchedule.csproj", "{1EE1B74F-A2AF-4F4E-87A3-B9CE74E0CDD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestMRSchedule", "..\NUnitTestMRSchedule\NUnitTestMRSchedule.csproj", "{9F27B6BF-641E-490C-9FC2-366D7EAF5F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE1B74F-A2AF-4F4E-87A3-B9CE74E0CDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE1B74F-A2AF-4F4E-87A3-B9CE74E0CDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE1B74F-A2AF-4F4E-87A3-B9CE74E0CDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE1B74F-A2AF-4F4E-87A3-B9CE74E0CDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F27B6BF-641E-490C-9FC2-366D7EAF5F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F27B6BF-641E-490C-9FC2-366D7EAF5F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F27B6BF-641E-490C-9FC2-366D7EAF5F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F27B6BF-641E-490C-9FC2-366D7EAF5F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F1CA75-CE08-464E-B0DF-63C1C116B442}
+	EndGlobalSection
+EndGlobal

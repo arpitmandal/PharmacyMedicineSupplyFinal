@@ -1,0 +1,132 @@
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csprojAssemblyReference.cache
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.AssemblyInfoInputs.cache
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.AssemblyInfo.cs
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.RazorTargetAssemblyInfo.cache
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\staticwebassets\MedicineStockApi.StaticWebAssets.Manifest.cache
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\staticwebassets\MedicineStockApi.StaticWebAssets.xml
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.exe
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csproj.CopyComplete
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.deps.json
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.runtimeconfig.json
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.runtimeconfig.dev.json
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.pdb
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.pdb
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.genruntimeconfig.cache
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csproj.CoreCompileInputs.cache
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himanshu\source\repos\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.MvcApplicationPartsAssemblyInfo.cache
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\log4net.config
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.exe
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.deps.json
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.runtimeconfig.json
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.runtimeconfig.dev.json
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.pdb
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\log4net.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Moq.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csprojAssemblyReference.cache
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.AssemblyInfoInputs.cache
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.AssemblyInfo.cs
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.RazorTargetAssemblyInfo.cache
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csproj.CopyComplete
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\staticwebassets\MedicineStockApi.StaticWebAssets.Manifest.cache
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\staticwebassets\MedicineStockApi.StaticWebAssets.xml
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.dll
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.pdb
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.genruntimeconfig.cache
+F:\MFRFV1\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csproj.CoreCompileInputs.cache
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.MvcApplicationPartsAssemblyInfo.cs
+F:\MFRFV1\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\log4net.config
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.exe
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockConfig.yaml
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.deps.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.runtimeconfig.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.runtimeconfig.dev.json
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\MedicineStockApi.pdb
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csprojAssemblyReference.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.AssemblyInfoInputs.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.AssemblyInfo.cs
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csproj.CoreCompileInputs.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.RazorTargetAssemblyInfo.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.csproj.CopyComplete
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\staticwebassets\MedicineStockApi.StaticWebAssets.Manifest.cache
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\staticwebassets\MedicineStockApi.StaticWebAssets.xml
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.dll
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.pdb
+D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi\obj\Debug\netcoreapp3.1\MedicineStockApi.genruntimeconfig.cache

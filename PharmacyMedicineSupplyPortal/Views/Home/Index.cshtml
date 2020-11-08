@@ -1,0 +1,46 @@
+﻿@model PharmacyMedicineSupplyPortal.Models.MedicineDemand
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="col-md-10 col-sm-10 text-center">
+            <div class="row justify-content-lg-center">
+                <h1>Pharmacy Supply Management Portal</h1>
+            </div>
+            <div class="card bg-light text-dark">
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Medicine Name</th>
+                            <th>Demand Count</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in ViewBag.Demands)
+                        {
+                        <tr>
+                            @using (Html.BeginForm("Add", "Demand", FormMethod.Post))
+                            {
+                                <td>
+                                    @item.Medicine
+                                    <input type="hidden" asp-for="Medicine" value=@item.Medicine />
+                                </td>
+                                <td>
+                                    <input type="number" asp-for="Demand" placeholder="Enter the Demand count " />
+                                </td>
+                                <td>
+                                    <input type="submit" class="btn btn-primary" value="order" />
+                                </td>
+                            }
+                        </tr>
+                        }
+                        </tbody>
+                    </table>
+            </div>
+        </div>
+    </div>
+</div>

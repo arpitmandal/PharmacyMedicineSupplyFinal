@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaSupplyAuthorizationApi", "PharmaSupplyAuthorizationApi.csproj", "{733BE470-9C9E-4432-BFD6-CBA2D600B29A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApiUnitTest", "..\AuthApiUnitTest\AuthApiUnitTest.csproj", "{9EB0DDD6-738D-4490-B24D-EE028449DC5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733BE470-9C9E-4432-BFD6-CBA2D600B29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733BE470-9C9E-4432-BFD6-CBA2D600B29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733BE470-9C9E-4432-BFD6-CBA2D600B29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733BE470-9C9E-4432-BFD6-CBA2D600B29A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB0DDD6-738D-4490-B24D-EE028449DC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB0DDD6-738D-4490-B24D-EE028449DC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB0DDD6-738D-4490-B24D-EE028449DC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB0DDD6-738D-4490-B24D-EE028449DC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95D91BE0-0B80-48F3-8342-D2E75D886508}
+	EndGlobalSection
+EndGlobal

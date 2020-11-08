@@ -1,0 +1,109 @@
+INFO  10:54:15 Application started. Press Ctrl+C to shut down.
+INFO  10:54:15 Application started. Press Ctrl+C to shut down.
+INFO  10:54:15 Hosting environment: Development
+INFO  10:54:15 Hosting environment: Development
+INFO  10:54:15 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  10:54:15 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  10:55:19 Application started. Press Ctrl+C to shut down.
+INFO  10:55:19 Application started. Press Ctrl+C to shut down.
+INFO  10:55:19 Hosting environment: Development
+INFO  10:55:19 Hosting environment: Development
+INFO  10:55:19 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  10:55:19 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  10:55:40 Authuserservice constructor initiated
+INFO  10:55:40 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  10:55:40 Token generation started
+INFO  10:55:40 User Credentials are correct.
+INFO  10:55:42 Token is generated successfully.
+INFO  10:55:42 Token string is returned to the Controller.
+INFO  10:55:42 Authorized User.
+INFO  10:56:11 Application started. Press Ctrl+C to shut down.
+INFO  10:56:11 Application started. Press Ctrl+C to shut down.
+INFO  10:56:11 Hosting environment: Development
+INFO  10:56:11 Hosting environment: Development
+INFO  10:56:11 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  10:56:11 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  10:56:34 Authuserservice constructor initiated
+INFO  10:56:34 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  10:56:34 Token generation started
+INFO  10:56:34 User Credentials are not correct so token cannot be generated.
+INFO  10:56:34 Token string is returned to the Controller.
+INFO  10:56:34 Unauthorized User.
+INFO  11:11:15 Application started. Press Ctrl+C to shut down.
+INFO  11:11:15 Application started. Press Ctrl+C to shut down.
+INFO  11:11:15 Hosting environment: Development
+INFO  11:11:15 Hosting environment: Development
+INFO  11:11:15 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  11:11:15 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  11:17:58 Application started. Press Ctrl+C to shut down.
+INFO  11:17:58 Application started. Press Ctrl+C to shut down.
+INFO  11:17:58 Hosting environment: Development
+INFO  11:17:58 Hosting environment: Development
+INFO  11:17:58 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  11:17:58 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  11:21:49 Authuserservice constructor initiated
+INFO  11:21:49 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  11:21:49 Token generation started
+INFO  11:21:49 User Credentials are correct.
+INFO  11:21:50 Token is generated successfully.
+INFO  11:21:50 Token string is returned to the Controller.
+INFO  11:21:50 Authorized User.
+INFO  11:29:29 Application started. Press Ctrl+C to shut down.
+INFO  11:29:29 Application started. Press Ctrl+C to shut down.
+INFO  11:29:29 Hosting environment: Development
+INFO  11:29:29 Hosting environment: Development
+INFO  11:29:29 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  11:29:29 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  11:30:01 Authuserservice constructor initiated
+INFO  11:30:01 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  11:30:01 Token generation started
+INFO  11:30:01 User Credentials are correct.
+INFO  11:30:02 Token is generated successfully.
+INFO  11:30:02 Token string is returned to the Controller.
+INFO  11:30:02 Authorized User.
+INFO  11:31:56 Authuserservice constructor initiated
+INFO  11:31:56 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  11:31:56 Token generation started
+INFO  11:31:56 User Credentials are correct.
+INFO  11:31:56 Token is generated successfully.
+INFO  11:31:56 Token string is returned to the Controller.
+INFO  11:31:56 Authorized User.
+INFO  11:32:18 Authuserservice constructor initiated
+INFO  11:32:18 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  11:32:18 Token generation started
+INFO  11:32:18 User Credentials are not correct so token cannot be generated.
+INFO  11:32:18 Token string is returned to the Controller.
+INFO  11:32:18 Unauthorized User.
+INFO  12:03:34 Authuserservice constructor initiated
+INFO  12:03:34 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  12:03:34 Token generation started
+INFO  12:03:34 User Credentials are not correct so token cannot be generated.
+INFO  12:03:34 Token string is returned to the Controller.
+INFO  12:03:34 Unauthorized User.
+INFO  12:03:41 Authuserservice constructor initiated
+INFO  12:03:41 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  12:03:41 Token generation started
+INFO  12:03:41 User Credentials are correct.
+INFO  12:03:42 Token is generated successfully.
+INFO  12:03:42 Token string is returned to the Controller.
+INFO  12:03:42 Authorized User.
+INFO  12:06:59 Authuserservice constructor initiated
+INFO  12:06:59 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  12:06:59 Token generation started
+INFO  12:06:59 User Credentials are correct.
+INFO  12:06:59 Token is generated successfully.
+INFO  12:06:59 Token string is returned to the Controller.
+INFO  12:06:59 Authorized User.
+INFO  12:09:50 Application started. Press Ctrl+C to shut down.
+INFO  12:09:50 Application started. Press Ctrl+C to shut down.
+INFO  12:09:50 Hosting environment: Development
+INFO  12:09:50 Hosting environment: Development
+INFO  12:09:50 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  12:09:50 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  12:10:43 Authuserservice constructor initiated
+INFO  12:10:44 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  12:10:44 Token generation started
+INFO  12:10:44 User Credentials are correct.
+INFO  12:10:44 Token is generated successfully.
+INFO  12:10:44 Token string is returned to the Controller.
+INFO  12:10:44 Authorized User.
