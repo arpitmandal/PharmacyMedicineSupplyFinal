@@ -8,5 +8,7 @@ namespace MedicalRepresentativeSchedule.Repository
    public interface IScheduleMeeting
     {
         public dynamic ScheduleMeet(string startDate);
+        public dynamic ReadDoctorsCsv();
+        public dynamic getStockApiData();
     }
 }

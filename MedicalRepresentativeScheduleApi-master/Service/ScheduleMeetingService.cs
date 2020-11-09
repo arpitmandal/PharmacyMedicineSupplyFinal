@@ -18,13 +18,22 @@ namespace MedicalRepresentativeSchedule.Service
 
         public dynamic MRScheduleMeet(string startDate)
         {
-            var Result = repo.ScheduleMeet(startDate);
-            if (Result == null)
-            { 
-                return null; 
+            try
+            {
+                var Result = repo.ScheduleMeet(startDate);
+                if (Result == null)
+                {
+                    return null;
+                }
+                return Result;
             }
-            return Result;
-        
+            catch (Exception exception)
+            {
+                Console.WriteLine(exception);
+                return null;
+
+            }
+
         }
             
         

@@ -29,18 +29,29 @@ namespace MedicalRepresentativeSchedule.Controllers
         }
 
 
-//[HttpPost]
+
         [HttpGet]
         [ActionName("ScheduleMeeting")]
         public IActionResult GetMeetingStartDate(string startDate)
         {
-            _log4net.Info(" Http Post request");
-            var MeetingSchedule = service.MRScheduleMeet(startDate);
-            if (MeetingSchedule == null)
+            try
             {
-                return BadRequest();
+                _log4net.Info(" Http Post request Enter Start date" + startDate);
+                var MeetingSchedule = service.MRScheduleMeet(startDate);
+                if (MeetingSchedule == null)
+                {
+                 _log4net.Info("Error From Repository");
+                    return BadRequest();
+                }
+                _log4net.Info("Output Response:Success Give Meeting Schedule");
+                return Ok(MeetingSchedule);
             }
-            return Ok(MeetingSchedule);
+            catch (Exception exception)
+            {
+                _log4net.Info("Exception Occur in GetMeetingStartDate:"+ exception);
+                return BadRequest();
+
+            }
 
         }
     }
