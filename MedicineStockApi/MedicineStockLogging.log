@@ -88,3 +88,26 @@ INFO  12:13:07 Get Api Initiated
 INFO  12:13:07 Medicine List Returned
 INFO  12:13:07 Medicine Information fetched
 INFO  12:13:07 Medicine Data Returned
+INFO  03:45:52 Starup File started Running
+INFO  03:46:09 Application started. Press Ctrl+C to shut down.
+INFO  03:46:09 Application started. Press Ctrl+C to shut down.
+INFO  03:46:11 Hosting environment: Development
+INFO  03:46:11 Hosting environment: Development
+INFO  03:46:11 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi
+INFO  03:46:11 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\MedicineStockApi
+INFO  03:46:13 Get Api Initiated
+INFO  03:46:13 Medicine List Returned
+INFO  03:46:15 Medicine Information fetched
+INFO  03:46:15 Medicine Data Returned
+INFO  03:49:40 Get Api Initiated
+INFO  03:49:40 Medicine List Returned
+INFO  03:49:40 Medicine Information fetched
+INFO  03:49:40 Medicine Data Returned
+INFO  03:53:19 Get Api Initiated
+INFO  03:53:19 Medicine List Returned
+INFO  03:53:19 Medicine Information fetched
+INFO  03:53:19 Medicine Data Returned
+INFO  03:54:17 Get Api Initiated
+INFO  03:54:17 Medicine List Returned
+INFO  03:54:17 Medicine Information fetched
+INFO  03:54:17 Medicine Data Returned

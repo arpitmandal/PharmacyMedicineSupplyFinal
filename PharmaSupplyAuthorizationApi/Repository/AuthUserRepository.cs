@@ -22,7 +22,7 @@ namespace PharmaSupplyAuthorizationApi.Repository
         };
         public AuthUserRepository(IConfiguration config)
         {
-          //  _log4net.Info("AuthenticationRepository constructor initiated.");
+           _log4net.Info("AuthenticationRepository constructor initiated.");
             _config = config;
         }
         public string GenerateToken(Users user)

@@ -8587,19 +8587,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\com 1\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\com 1\\source\\repos\\PharmacyMedicineSupplyApi\\PharmacyMedicineSupplyApi.csproj",
+      "projectUniqueName": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmacyMedcineSupplyApiV2-master\\PharmacyMedicineSupplyApi.csproj",
       "projectName": "PharmacyMedicineSupplyApi",
-      "projectPath": "C:\\Users\\com 1\\source\\repos\\PharmacyMedicineSupplyApi\\PharmacyMedicineSupplyApi.csproj",
-      "packagesPath": "C:\\Users\\com 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\com 1\\source\\repos\\PharmacyMedicineSupplyApi\\obj\\",
+      "projectPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmacyMedcineSupplyApiV2-master\\PharmacyMedicineSupplyApi.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmacyMedcineSupplyApiV2-master\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\com 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8670,7 +8674,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -32,7 +32,11 @@ namespace PharmacyMedicineSupplyPortal.Controllers
 
                 using (var httpclient = new HttpClient())
                 {
-                    httpclient.BaseAddress = new Uri("https://localhost:44366/");
+                    //httpclient.BaseAddress = new Uri("https://localhost:44366/");
+
+
+                    //himanshu
+                    httpclient.BaseAddress = new Uri("http://20.195.98.109/");
                     HttpResponseMessage res = await httpclient.GetAsync("MedicineStockInformation");
                     if (res.IsSuccessStatusCode)
                     {
@@ -107,7 +111,11 @@ namespace PharmacyMedicineSupplyPortal.Controllers
 
                 using (var httpclient = new HttpClient())
                 {
-                    httpclient.BaseAddress = new Uri("https://localhost:44358/");
+                // httpclient.BaseAddress = new Uri("https://localhost:44358/");
+
+                //arhan
+                    httpclient.BaseAddress = new Uri("http://20.43.177.52/");
+
                     HttpResponseMessage res = await httpclient.GetAsync("api/MedicineSupply/GetSupplies/" + med.Medicine + "/" + med.Demand);
                     if (res.IsSuccessStatusCode)
                     {

@@ -24,7 +24,6 @@ namespace PharmaSupplyAuthorizationApi.Controllers
         [Route("AuthenticateUser")]
         public IActionResult AuthenticateUser(Users user)
         {
-            
 
             try
             {

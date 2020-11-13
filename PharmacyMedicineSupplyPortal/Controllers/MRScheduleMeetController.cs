@@ -60,7 +60,7 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                 startDate = TempData["Date1"].ToString();
 
             }
-            catch (System.NullReferenceException e)
+            catch (Exception e)
             {
                 return RedirectToAction("Index1", "MRScheduleMeet");
             }
@@ -68,7 +68,12 @@ namespace PharmacyMedicineSupplyPortal.Controllers
             using (var httpclient = new HttpClient())
             {
 
-                httpclient.BaseAddress = new Uri("https://localhost:44372/");
+                //httpclient.BaseAddress = new Uri("https://localhost:44372/");
+
+
+                //ashu
+                httpclient.BaseAddress = new Uri("http://52.224.190.35/");
+
                 HttpResponseMessage res = await httpclient.GetAsync("api/ScheduleMeeting?startDate=" + startDate);
                 if (res.IsSuccessStatusCode)
                 {
@@ -77,7 +82,7 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                 }
             }
 
-            Console.WriteLine("hi");
+            
 
 
             return View(MRMeetList);

@@ -41,15 +41,15 @@ namespace PharmacyMedicineSupplyPortal.Controllers
         {
             string token = GetToken("https://localhost:44342/api/Token/AuthenticateUser", user);
 
-
+            //arpit
+            //string token = GetToken("http://52.146.26.32/api/Token/AuthenticateUser", user);
+        
 
             if (token != null)
             {
 
                 TokenInfo.token = token;
-                return RedirectToAction("EnterDate", "MRScheduleMeet", new { name = token });
-
-                //return RedirectToAction("Dashboard", "Home", new { name = token });
+                return RedirectToAction("Dashboard", "Home", new { name = token });
             }
             else
             {
@@ -74,26 +74,7 @@ namespace PharmacyMedicineSupplyPortal.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var stock = new List<MedicineStock>();
-
-            using (var httpclient = new HttpClient())
-            {
-                httpclient.BaseAddress = new Uri("https://localhost:44366/");
-                HttpResponseMessage res = await httpclient.GetAsync("MedicineStockInformation");
-                if (res.IsSuccessStatusCode)
-                {
-                    var result = res.Content.ReadAsStringAsync().Result;
-                    stock = JsonConvert.DeserializeObject<List<MedicineStock>>(result);
-                }
-            }
-
-            var list = new List<MedicineDemand>();
-            foreach (var med in stock)
-            {
-                list.Add(new MedicineDemand { Medicine = med.Name, Demand = 0 });
-            }
-            ViewBag.Demands = list;
-            return View();
+            return RedirectToAction("Dashboard", "Home");
         }
 
         public IActionResult Privacy()

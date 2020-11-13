@@ -22,6 +22,7 @@
                     <input asp-for="Password" type="password" class="form-control" required />
                     <span asp-validation-for="Password" class="text-danger"></span>
                 </div>
+                <h3 id="errormsg" style="visibility: hidden;color:red;">*Incorrect Email or Password</h3>
                 <div class="form-group">
                     <input type="submit" value="Login" class="btn btn-success" />
                 </div>
@@ -34,7 +35,7 @@
     <script type="text/javascript">
 
         window.onload = function () {
-            alert("@ViewBag.invalid");
+            errormsg.style.visibility = 'visible';
         }
     </script>
 }
