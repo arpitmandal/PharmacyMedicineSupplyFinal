@@ -12,8 +12,8 @@ namespace PharmacyMedicineSupplyPortal.Controllers
 {
     public class MRScheduleMeetController : Controller
     {
-        string sd = null;
-        string se = null;
+        string startDateTemp = null;
+        string startDateBackup = null;
         public IActionResult EnterDate()
         {
             if(TokenInfo.token==null)
@@ -33,10 +33,10 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                 return RedirectToAction("Login", "Home");
             }
 
-            sd = form["startDate"].ToString();
+            startDateTemp = form["startDate"].ToString();
 
-            se = sd.Replace('-', '/');
-            TempData["Date1"] = se;
+            startDateBackup = startDateTemp.Replace('-', '/');
+            TempData["Date1"] = startDateBackup;
 
             return RedirectToAction("MrMeet", "MRScheduleMeet");
 
@@ -53,7 +53,7 @@ namespace PharmacyMedicineSupplyPortal.Controllers
             {
                 return RedirectToAction("Login", "Home");
             }
-            string startDate = se;
+            string startDate = startDateBackup;
             try
             {
 
@@ -76,7 +76,7 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                     //httpclient.BaseAddress = new Uri("https://localhost:44372/");
 
 
-                    //ashu
+                   
                     httpclient.BaseAddress = new Uri("http://52.224.190.35/");
 
                     HttpResponseMessage res = await httpclient.GetAsync("api/ScheduleMeeting?startDate=" + startDate);
