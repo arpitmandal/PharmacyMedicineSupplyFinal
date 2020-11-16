@@ -213,3 +213,128 @@ INFO  08:46:24 Token generation started
 INFO  08:46:24 User Credentials are not correct so token cannot be generated.
 INFO  08:46:24 Token string is returned to the Controller.
 INFO  08:46:24 Unauthorized User.
+INFO  06:02:25 Application started. Press Ctrl+C to shut down.
+INFO  06:02:25 Application started. Press Ctrl+C to shut down.
+INFO  06:02:25 Hosting environment: Development
+INFO  06:02:25 Hosting environment: Development
+INFO  06:02:25 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  06:02:25 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  06:02:49 AuthenticationRepository constructor initiated.
+INFO  06:02:49 Authuserservice constructor initiated
+INFO  06:02:49 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:02:49 Token generation started
+INFO  06:02:49 User Credentials are not correct so token cannot be generated.
+INFO  06:02:49 Token string is returned to the Controller.
+INFO  06:02:49 Unauthorized User.
+INFO  06:02:55 AuthenticationRepository constructor initiated.
+INFO  06:02:55 Authuserservice constructor initiated
+INFO  06:02:55 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:02:55 Token generation started
+INFO  06:02:55 User Credentials are correct.
+INFO  06:02:55 Token is generated successfully.
+INFO  06:02:55 Token string is returned to the Controller.
+INFO  06:02:55 Authorized User.
+INFO  06:08:13 Application started. Press Ctrl+C to shut down.
+INFO  06:08:13 Application started. Press Ctrl+C to shut down.
+INFO  06:08:13 Hosting environment: Development
+INFO  06:08:13 Hosting environment: Development
+INFO  06:08:13 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  06:08:13 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  06:08:53 AuthenticationRepository constructor initiated.
+INFO  06:08:53 Authuserservice constructor initiated
+INFO  06:08:53 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:08:53 Token generation started
+INFO  06:08:53 User Credentials are correct.
+INFO  06:08:53 Token is generated successfully.
+INFO  06:08:53 Token string is returned to the Controller.
+INFO  06:08:53 Authorized User.
+INFO  06:12:23 AuthenticationRepository constructor initiated.
+INFO  06:12:23 Authuserservice constructor initiated
+INFO  06:12:23 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:12:23 Token generation started
+INFO  06:12:23 User Credentials are correct.
+INFO  06:12:23 Token is generated successfully.
+INFO  06:12:23 Token string is returned to the Controller.
+INFO  06:12:23 Authorized User.
+INFO  06:28:23 Application started. Press Ctrl+C to shut down.
+INFO  06:28:23 Application started. Press Ctrl+C to shut down.
+INFO  06:28:23 Hosting environment: Development
+INFO  06:28:23 Hosting environment: Development
+INFO  06:28:23 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  06:28:23 Content root path: D:\Projects\Cognizant MFRP\Medicine-master\PharmaSupplyAuthorizationApi
+INFO  06:32:07 AuthenticationRepository constructor initiated.
+INFO  06:32:07 Authuserservice constructor initiated
+INFO  06:32:07 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:32:07 Token generation started
+INFO  06:32:07 User Credentials are not correct so token cannot be generated.
+INFO  06:32:07 Token string is returned to the Controller.
+INFO  06:32:07 Unauthorized User.
+INFO  06:32:16 AuthenticationRepository constructor initiated.
+INFO  06:32:16 Authuserservice constructor initiated
+INFO  06:32:16 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:32:16 Token generation started
+INFO  06:32:16 User Credentials are correct.
+INFO  06:32:18 Token is generated successfully.
+INFO  06:32:18 Token string is returned to the Controller.
+INFO  06:32:18 Authorized User.
+INFO  06:53:31 AuthenticationRepository constructor initiated.
+INFO  06:53:31 Authuserservice constructor initiated
+INFO  06:53:31 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  06:53:31 Token generation started
+INFO  06:53:31 User Credentials are correct.
+INFO  06:53:31 Token is generated successfully.
+INFO  06:53:31 Token string is returned to the Controller.
+INFO  06:53:31 Authorized User.
+INFO  07:05:34 AuthenticationRepository constructor initiated.
+INFO  07:05:34 Authuserservice constructor initiated
+INFO  07:05:34 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  07:05:34 Token generation started
+INFO  07:05:34 User Credentials are correct.
+INFO  07:05:34 Token is generated successfully.
+INFO  07:05:34 Token string is returned to the Controller.
+INFO  07:05:34 Authorized User.
+INFO  07:06:38 AuthenticationRepository constructor initiated.
+INFO  07:06:38 Authuserservice constructor initiated
+INFO  07:06:38 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  07:06:38 Token generation started
+INFO  07:06:38 User Credentials are correct.
+INFO  07:06:38 Token is generated successfully.
+INFO  07:06:38 Token string is returned to the Controller.
+INFO  07:06:38 Authorized User.
+INFO  07:13:17 AuthenticationRepository constructor initiated.
+INFO  07:13:17 Authuserservice constructor initiated
+INFO  07:13:17 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  07:13:17 Token generation started
+INFO  07:13:17 User Credentials are correct.
+INFO  07:13:17 Token is generated successfully.
+INFO  07:13:17 Token string is returned to the Controller.
+INFO  07:13:17 Authorized User.
+INFO  07:15:42 AuthenticationRepository constructor initiated.
+INFO  07:15:42 Authuserservice constructor initiated
+INFO  07:15:42 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  07:15:42 Token generation started
+INFO  07:15:42 User Credentials are correct.
+INFO  07:15:42 Token is generated successfully.
+INFO  07:15:42 Token string is returned to the Controller.
+INFO  07:15:42 Authorized User.
+INFO  07:55:44 Application started. Press Ctrl+C to shut down.
+INFO  07:55:44 Application started. Press Ctrl+C to shut down.
+INFO  07:55:44 Hosting environment: Development
+INFO  07:55:44 Hosting environment: Development
+INFO  07:55:44 Content root path: D:\Projects\Cognizant MFRP\Auth Cloud Deploy\PharmaSupplyAuthorizationApi
+INFO  07:55:44 Content root path: D:\Projects\Cognizant MFRP\Auth Cloud Deploy\PharmaSupplyAuthorizationApi
+INFO  07:56:04 AuthenticationRepository constructor initiated.
+INFO  07:56:04 Authuserservice constructor initiated
+INFO  07:56:04 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  07:56:04 Token generation started
+INFO  07:56:04 User Credentials are not correct so token cannot be generated.
+INFO  07:56:04 Token string is returned to the Controller.
+INFO  07:56:04 Unauthorized User.
+INFO  07:56:10 AuthenticationRepository constructor initiated.
+INFO  07:56:10 Authuserservice constructor initiated
+INFO  07:56:10 In AuthenticationUser method of the service .Repository GenerateToken function is called.
+INFO  07:56:10 Token generation started
+INFO  07:56:10 User Credentials are correct.
+INFO  07:56:11 Token is generated successfully.
+INFO  07:56:11 Token string is returned to the Controller.
+INFO  07:56:11 Authorized User.

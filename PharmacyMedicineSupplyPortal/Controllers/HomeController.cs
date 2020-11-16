@@ -39,37 +39,46 @@ namespace PharmacyMedicineSupplyPortal.Controllers
         [HttpPost]
         public IActionResult Login(Users user)
         {
-            string token = GetToken("https://localhost:44342/api/Token/AuthenticateUser", user);
-
-            //arpit
-            //string token = GetToken("http://52.146.26.32/api/Token/AuthenticateUser", user);
-        
-
-            if (token != null)
+            try
             {
+                string token = GetToken("https://localhost:44342/api/Token/AuthenticateUser", user);
 
-                TokenInfo.token = token;
-                return RedirectToAction("Dashboard", "Home", new { name = token });
+                //arpit
+                //string token = GetToken("http://52.146.26.32/api/Token/AuthenticateUser", user);
+
+
+                if (token != null)
+                {
+
+                    TokenInfo.token = token;
+                    return RedirectToAction("Dashboard", "Home", new { name = token });
+                }
+                else
+                {
+                    ViewBag.invalid = "UserId or Password invalid";
+                    return View();
+                }
             }
-            else
+            catch(Exception e)
             {
-                ViewBag.invalid = "UserId or Password invalid";
-                return View();
+                return RedirectToAction("Login", "Home");
             }
         }
 
         static string GetToken(string url, Users user)
         {
-            var json = JsonConvert.SerializeObject(user);
-            var data = new StringContent(json, Encoding.UTF8, "application/json");
 
-            using (var client = new HttpClient())
-            {
-                var response = client.PostAsync(url, data).Result;
-                string name = response.Content.ReadAsStringAsync().Result;
-                dynamic details = JObject.Parse(name);
-                return details.tokenString;
-            }
+                var json = JsonConvert.SerializeObject(user);
+                var data = new StringContent(json, Encoding.UTF8, "application/json");
+
+                using (var client = new HttpClient())
+                {
+                    var response = client.PostAsync(url, data).Result;
+                    string name = response.Content.ReadAsStringAsync().Result;
+                    dynamic details = JObject.Parse(name);
+                    return details.tokenString;
+                }
+
         }
 
         public async Task<IActionResult> Index()

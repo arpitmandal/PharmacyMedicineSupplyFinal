@@ -62,30 +62,38 @@ namespace PharmacyMedicineSupplyPortal.Controllers
             }
             catch (Exception e)
             {
-                return RedirectToAction("Index1", "MRScheduleMeet");
+                ViewBag.Message = "Exception Encountered : "+e.Message;
+                return View("~/Views/Shared/ExceptionAndError.cshtml");
+
             }
-            var MRMeetList = new List<RepSchedule>();
-            using (var httpclient = new HttpClient())
+
+            try
             {
-
-                //httpclient.BaseAddress = new Uri("https://localhost:44372/");
-
-
-                //ashu
-                httpclient.BaseAddress = new Uri("http://52.224.190.35/");
-
-                HttpResponseMessage res = await httpclient.GetAsync("api/ScheduleMeeting?startDate=" + startDate);
-                if (res.IsSuccessStatusCode)
+                var MRMeetList = new List<RepSchedule>();
+                using (var httpclient = new HttpClient())
                 {
-                    var result = res.Content.ReadAsStringAsync().Result;
-                    MRMeetList = JsonConvert.DeserializeObject<List<RepSchedule>>(result);
+
+                    //httpclient.BaseAddress = new Uri("https://localhost:44372/");
+
+
+                    //ashu
+                    httpclient.BaseAddress = new Uri("http://52.224.190.35/");
+
+                    HttpResponseMessage res = await httpclient.GetAsync("api/ScheduleMeeting?startDate=" + startDate);
+                    if (res.IsSuccessStatusCode)
+                    {
+                        var result = res.Content.ReadAsStringAsync().Result;
+                        MRMeetList = JsonConvert.DeserializeObject<List<RepSchedule>>(result);
+                    }
                 }
+
+                return View(MRMeetList);
             }
-
-            
-
-
-            return View(MRMeetList);
+            catch(Exception e)
+            {
+                ViewBag.Message = "Exception Encountered : " + e.Message;
+                return View("~/Views/Shared/ExceptionAndError.cshtml");
+            }
         }
     }
 }

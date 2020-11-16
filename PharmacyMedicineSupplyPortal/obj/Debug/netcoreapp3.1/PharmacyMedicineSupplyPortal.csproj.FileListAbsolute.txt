@@ -625,3 +625,4 @@ D:\Projects\Cognizant MFRP\Medicine-master\PharmacyMedicineSupplyPortal\obj\Debu
 D:\Projects\Cognizant MFRP\Medicine-master\PharmacyMedicineSupplyPortal\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyPortal.dll
 D:\Projects\Cognizant MFRP\Medicine-master\PharmacyMedicineSupplyPortal\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyPortal.pdb
 D:\Projects\Cognizant MFRP\Medicine-master\PharmacyMedicineSupplyPortal\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyPortal.genruntimeconfig.cache
+D:\Projects\Cognizant MFRP\Medicine-master\PharmacyMedicineSupplyPortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ExceptionAndError.cshtml.g.cs

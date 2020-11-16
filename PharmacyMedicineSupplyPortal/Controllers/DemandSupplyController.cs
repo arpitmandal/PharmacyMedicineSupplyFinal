@@ -35,8 +35,8 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                     //httpclient.BaseAddress = new Uri("https://localhost:44366/");
 
 
-                    //himanshu
-                    httpclient.BaseAddress = new Uri("http://20.195.98.109/");
+                    //himanshu - done
+                    httpclient.BaseAddress = new Uri("http://52.146.82.4/");
                     HttpResponseMessage res = await httpclient.GetAsync("MedicineStockInformation");
                     if (res.IsSuccessStatusCode)
                     {
@@ -58,8 +58,8 @@ namespace PharmacyMedicineSupplyPortal.Controllers
             }
             catch(Exception e)
             {
-                ViewBag.Message="Error message"+e;
-                return RedirectToAction("Index","DemandSupply");
+                ViewBag.Message = "Exception Encountered : " + e.Message;
+                return View("~/Views/Shared/ExceptionAndError.cshtml");
             }
         }
 
@@ -89,8 +89,8 @@ namespace PharmacyMedicineSupplyPortal.Controllers
             }
             catch(Exception e)
             {
-                ViewBag.ex = e;
-                return RedirectToAction("Index", "DemandSupply");
+                ViewBag.Message = "Exception Encountered : " + e.Message;
+                return View("~/Views/Shared/ExceptionAndError.cshtml");
             }
         }
         [HttpGet]
@@ -133,9 +133,10 @@ namespace PharmacyMedicineSupplyPortal.Controllers
                 }
                 return View(distributionOfStock);
             }
-            catch(Exception)
+            catch(Exception e)
             {
-                return RedirectToAction("Index", "DemandSupply");
+                ViewBag.Message = "Exception Encountered : " + e.Message;
+                return View("~/Views/Shared/ExceptionAndError.cshtml");
             }
         }
     }
